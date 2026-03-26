@@ -1,5 +1,5 @@
 streamlit
 openai-whisper
-moviepy<2.0.0
+moviepy
 arabic-reshaper
 python-bidi
